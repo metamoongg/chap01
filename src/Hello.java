@@ -20,8 +20,8 @@ public class Hello {
 		System.out.print("\033[15;25H");
 		System.out.println("Hello SQL");
 		
-		System.out.println("\033[34m");
-		System.out.println("\033[41m");
+		System.out.println("\033[33m");
+		System.out.println("\033[46m");
 
 		System.out.print("\033[20;10H");
 		System.out.println("Hello HTML");
